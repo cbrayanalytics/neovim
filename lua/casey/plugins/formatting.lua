@@ -9,7 +9,7 @@ return {
 				lua = { "stylua" },
 				python = { "isort", "black" },
 				bash = { "beautysh", "shfmt" },
-				go = { "goimports", "gofumpt", "golines" },
+				go = { "gopls", "goimports", "gofumpt", "golines" },
 				markdown = { "markdownlint", "markdownlint-cli2" },
 			},
 			format_on_save = {

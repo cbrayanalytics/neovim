@@ -1,1 +1,2 @@
-require("casey.config.lazy")
+require("casey.lazy")
+require("casey.config")
